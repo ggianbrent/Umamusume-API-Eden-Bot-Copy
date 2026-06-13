@@ -12,7 +12,7 @@ T500 to T10 in 4 days btw.
 
 Join our discord: https://discord.gg/wpbd3hTBDc
 
-# ! Instalation for dummies:
+# ! Written installation guide, video below.
 
 You will need the latest version of python and C++ Build Tools:
 
@@ -53,6 +53,8 @@ python main.py
 ```
 
 The bot will launch steam and umamusume then promptly close the game shortly before fully loading in, you will be given a web address, please paste this into your browser, you will be promted to log into your steam account, (it is recommended to use an alt). Web UI will request a steamguard code, once provided, you're in! Everything from here should be self explanitory. 
+
+# Video Guide: https://www.youtube.com/watch?v=SkBItJYJMeE
 
 # Regular use:
 
