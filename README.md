@@ -223,7 +223,7 @@ Step 1: Download bot directly from this repo, unzip file
 Step 2: Open the bot folder (usually second one) in cmd like this, please note, this is an example link, yours will be different.
 
 ```cmd
-cd C:\Users\yourusernamehere\Downloads\Umamusume-API-Bot-main\Umamusume-API-Bot-main
+cd C:\Users\yourusernamehere\Downloads\Umamusume-Icarus\Icarus-main
 ```
 Step 3: Paste the following lines in order. 
 
