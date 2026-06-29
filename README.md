@@ -10,9 +10,11 @@
 
 # About
 
+# See below for written installation and video guide.
+
 Icarus is a next-generation automation platform for **Umamusume: Pretty Derby**, designed to maximize career performance through intelligent decision making rather than simple scripted automation.
 
-Unlike traditional bots, Icarus evaluates an entire career as one optimization problem, dynamically balancing:
+Unlike traditional bots, Icarus connects to the game's API and talks directly to the game servers. Icarus evaluates an entire career as one optimization problem, dynamically balancing:
 
 - Training
 - Racing
@@ -136,6 +138,10 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+```cmd
+winget install -e --id OpenJS.NodeJS
+```
+
 Run:
 
 ```bash
@@ -146,9 +152,8 @@ python main.py
 
 # Requirements
 
-- Python 3.12+
-- Android Emulator / Physical Android Device
-- ADB
+- Latest version of Python
+- PC Steam client 
 - Windows 10 / 11
 
 ---
