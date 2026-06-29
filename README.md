@@ -179,6 +179,7 @@ Planned improvements include:
 - Enhanced dashboard
 - Improved character modeling
 - More optimization tools
+- Ported to new API (whenever that will be) + Port to JP version.
 
 ---
 
@@ -192,7 +193,7 @@ Use at your own discretion.
 
 # Credits
 
-Special thanks to everyone who contributed feedback, testing, and data collection.
+Special thanks to our bot developers, bot testers, club members, club leads, and supporters.
 
 ---
 
